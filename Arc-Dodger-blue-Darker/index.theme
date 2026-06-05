@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Arc-Dodger-blue-Darker
+Comment=A flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Arc-Dodger-blue-Darker
+MetacityTheme=Arc-Dodger-blue-Darker
+IconTheme=Adwaita
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Arc-Archlinux-blue-Darker
+Comment=A flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Arc-Archlinux-blue-Darker
+MetacityTheme=Arc-Archlinux-blue-Darker
+IconTheme=Adwaita
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
